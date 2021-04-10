@@ -8,6 +8,10 @@ import java.util.List;
  *
  * @author Viviane Viana
  */
+
+//5. Uma Universidade possui diversos Cursos. Cada Curso pode possuir nenhum ou diversos
+//Alunos matriculados. Implemente um sistema de acordo com o diagrama UML da Figura 3.
+
 public class Curso {
     public String nomeCurso;
     public int codigo;

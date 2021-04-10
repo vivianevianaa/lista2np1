@@ -6,6 +6,9 @@ package questao5;
  * @author Viviane Viana
  */
 
+//5. Uma Universidade possui diversos Cursos. Cada Curso pode possuir nenhum ou diversos
+//Alunos matriculados. Implemente um sistema de acordo com o diagrama UML da Figura 3.
+
 public class Estudante {
     public String nome;
     public int matricula;
