@@ -16,9 +16,10 @@ public class Universidade {
     public String descricao;
     public List<Curso> cursos;
     
-    public Universidade(String nomeUniversidade, String descricao) {
+    public Universidade(String nomeUniversidade, String descricao, List<Curso> cursos) {
         this.nomeUniversidade = nomeUniversidade;
         this.descricao = descricao;
+        this.cursos = cursos;
     }
     
     public String getNomeUniversidade() {

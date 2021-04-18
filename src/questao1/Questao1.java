@@ -17,7 +17,8 @@ package questao1;
 
 public class Questao1 {
     public static void main(String[] args) {
-//        Item D) V - V - F - V
-//        Justificativa: Um método pode ter 0 ou mais argumentos/parâmetros.
+//        Item D) F - V - F - V
+//        Justificativa: 1. É o contrário, um objeto é uma instância de uma classe.
+//                       2. Um método pode ter 0 ou mais argumentos/parâmetros.
     }
 }
